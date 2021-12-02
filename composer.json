@@ -1,0 +1,13 @@
+{
+    "name": "thuynt/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [{
+        "name": "TKV-LF",
+        "email": "1851161554@e.tlu.edu.vn"
+    }],
+    "require": {}
+}
